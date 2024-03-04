@@ -1,0 +1,3 @@
+// .Yo loq ue entiendo por optimizacion de el codigo es la manera de como se puede hacer un codigo mas legible  ala hora de programarlo, si bien sabemos que a la hora de hacer algo lo primero que talvez se fijen es la estructura que uno le pude poner a el codigo a la hora de hacer algo.
+
+// ..Aceveces pienso que lo primero que uno debe hacer es hacerse entender de la mejeor manera cuando esta haciendo algo y la optimizacion de codigo es un ejemplo claro.

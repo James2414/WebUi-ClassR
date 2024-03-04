@@ -1,0 +1,1 @@
+// .la manera que yo entiendo por estos dos en si mismmos es la manera de ompilar un codigo ya haciendo cambios, pruebas y otro tipo de cosas para que  se pueda hacer entregas rapidas en el sentido de desarrrollo y pueda pasar, pienso que esto es muy importante en el desaarollo para la implementacion que estemos haciendo.

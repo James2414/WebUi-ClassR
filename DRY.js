@@ -1,0 +1,1 @@
+// .Dry es algo ya en entorno de el desarrollo como la mejor manjera de no copiar codigo repetido, si no aumentar los conocimientos mas allla y implementar un codigo diferente dando a conocer nuestras habilidades en el entorno de desarrollo
